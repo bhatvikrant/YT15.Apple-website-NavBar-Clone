@@ -178,6 +178,4 @@ nav{
 .close.active{
     opacity: 1;
     visibility: visible;
-    /* transition-delay: 0.5s;
-    transform: translateX(-50%); */
 }
